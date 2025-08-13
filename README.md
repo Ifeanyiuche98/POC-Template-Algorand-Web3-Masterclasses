@@ -5,7 +5,7 @@ This is a simple starter template for non-technical founders taking part in the 
 - Wallet connection  
 - Transfer ALGO
 - NFT minting  
-- Minting your own token *(coming in Session 5)*
+- Minting your own token
 
 Use this to test ideas and enhance your first Web3 proof of concept on Algorand — no coding experience needed.
 
@@ -50,8 +50,8 @@ To avoid losing your progress, be sure to **commit your changes regularly** — 
 - `src/` — Frontend code (The webpage)
 - `src/App.tsx` — Main app layout and routing (TBD)
 - `src/components/Transact.tsx` — Simple transfer ALGO logic (Provided to you thanks to AlgoKit)
-- `src/components/MintNFT.tsx` — Simple NFT minting interface (Provided with this Web3 Masterclasses Template)
-- `src/components/MintToken.tsx` — To be added FOR session 5
+- `src/components/NFTmint.tsx` — Simple NFT minting interface (Provided with this Web3 Masterclasses Template)
+- `src/components/Tokenmint.tsx` — Simple Token minting interface (Provided with this Web3 Masterclasses Template)
 
 ## Reference Guide
 
